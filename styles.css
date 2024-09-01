@@ -1,0 +1,25 @@
+body {
+    background-color: #ED3EF7;
+    color: white;
+    text-align: center;
+
+
+}
+
+img {
+    width: 300px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 30px;
+    color: blue;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+    margin-top: 60px;
+}
+    
